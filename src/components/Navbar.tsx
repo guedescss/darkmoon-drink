@@ -69,7 +69,9 @@ export default function Navbar() {
           <div className="flex items-center gap-4">
             {/* Phone CTA */}
             <a
-              href="tel:24241252540"
+              href="https://wa.me/5561984218067"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hidden md:flex items-center gap-2 border border-[#C9A84C]/60 text-[#C9A84C] rounded-full px-5 py-2 text-sm font-medium tracking-wide gold-glow hover:bg-[#C9A84C]/10 transition-colors duration-300"
             >
               <svg
@@ -137,7 +139,9 @@ export default function Navbar() {
               </motion.a>
             ))}
             <a
-              href="tel:24241252540"
+              href="https://wa.me/5561984218067"
+              target="_blank"
+              rel="noopener noreferrer"
               className="mt-4 flex items-center gap-2 border border-[#C9A84C]/60 text-[#C9A84C] rounded-full px-6 py-3 text-base font-medium tracking-wide"
             >
               <svg
