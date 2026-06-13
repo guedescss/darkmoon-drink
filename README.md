@@ -28,3 +28,15 @@ npm run dev
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) com o seu navegador para ver o resultado.
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+<div align="center">
+  <img src="https://github.com/guedescss.png" width="100px" alt="Foto de perfil de João Vitor Guedes" style="border-radius: 50%;">
+  <br>
+  <strong>João Vitor Guedes (Guedes Solutions)</strong>
+  <br>
+  <a href="https://github.com/guedescss">GitHub</a>
+</div>
